@@ -19,3 +19,4 @@ The aim is to analyze this health and medical data to identify significant contr
 
 Feature engineering performed on raw dataset. Relationship between features was studied using various graphs and plots in Tableau. The aim was to find potential contributors to a heart disease. Dashboard was prepared analyzing the various features using Tableau and final conclusions were made. Above project documents consist of High level document(HLD), Low level document(LLD), Wireframe, Architecture, Detailed Project Report (DPR) which were prepared for this Business Intelligence project based on Heart disease analysis project
 along with a tableau dashboard.
+It also includes an internship experience letter for successful completion of this project.
